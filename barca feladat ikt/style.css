@@ -1,0 +1,95 @@
+body{
+    background-color: #e8e2e1;    
+}
+
+ 
+h3{
+    margin-top: 15px;
+   font-size: 20px;
+   font-variant: small-caps;
+}
+
+img{
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+.felkover{    
+    color: rgb(16, 37, 82);
+    font-weight: bold;
+}
+
+.dolt{
+    color: rgb(16, 37, 82);
+   
+}
+
+.jobbra a, #link a{
+    color: rgb(16, 37, 82);
+    font-variant: small-caps;    
+    padding: 5px;
+}
+
+
+.jobbra{
+    text-align: right;
+    font-style: italic;
+}
+
+footer{
+    background-color:#DC143C;
+    color: #000080;  
+
+    font-size: 25px;  
+}
+
+nav{
+    background-color: #DC143C;
+    color: #000080;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 25px;
+}
+
+.fejlec{
+height: 350px;
+background-image: url(img/barca\ 1.jpg);
+background-position-y: center;
+background-position-x: center;
+}
+
+h1{
+    color: #5c3829; 
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #5c3829; 
+    letter-spacing: 1px;
+    line-height: 70px;
+    font-variant: small-caps;
+}
+
+
+.navbar-brand{
+   font-size:40px
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+
+  .column {
+    float: right;
+    width: 66.33%;
+    padding: 38px;
+  }
+
+  .jatekosok {
+    float: right;
+    width: 66.33%;
+    padding: 1px;
+  }
